@@ -4,8 +4,8 @@
 - 💞️ I graduated with Bachelor's Degree of Computer Science with Artificial Intelligence.
 - 📫 Please reach me via my email & linkedin. Thanks.
 
-LOCATION
-📍 Singapore
+LOCATION /n
+📍 Singapore /n
 EDUCATION
 University Teknikal Malaysia Melaka
 WORK
