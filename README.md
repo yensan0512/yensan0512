@@ -5,7 +5,7 @@
 - 📍 Singapore
 - 🎓 Universiti Teknikal Malaysia Melaka
 - 👩‍💻 Work in Medisys Innovation Pte Ltd
-- 📫 Please reach me via my email & linkedin. Thanks.
+- ☎ Please reach me via my email & linkedin. Thanks.
 
 <!---
 yensan0512/yensan0512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
